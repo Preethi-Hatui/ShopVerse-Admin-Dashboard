@@ -28,4 +28,18 @@
 ---
 
 
+# Screenshots
+
+## Full Screen View
+
+![image](https://github.com/user-attachments/assets/0e188814-0866-4121-af49-61d0b36dfa04)
+
+## Half Screen View
+
+![image](https://github.com/user-attachments/assets/ad339f75-3712-4ef9-bebe-48e23b4ff61c)
+
+## Compact / Detail View
+
+![image](https://github.com/user-attachments/assets/08567eb3-463a-4291-82ef-e082868ef7f2)
+
 
